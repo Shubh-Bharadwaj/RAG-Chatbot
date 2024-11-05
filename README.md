@@ -28,3 +28,6 @@ This project explores two main topics:
 **- Python Libraries:** For building the chatbot and managing data flow.
 
 **- Vector Stores:** Essential for embeddings and effective retrieval of contextual data.
+
+## Note
+The chatbot is designed to interact with _machinelearning-lecture01.pdf_, answering questions based on its introductory machine learning content. However, you can also upload your own documents to personalize the chatbot’s responses to your unique data sources.
