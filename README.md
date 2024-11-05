@@ -19,3 +19,8 @@ This project explores two main topics:
 **- Retrieval:** Code for querying and accessing relevant data from the vector store.
 
 **- Chatbot:** Main logic for conversational flow and handling user interactions.
+
+**🛠️ Technologies & Tools Used**
+**- LangChain:** Framework for creating LLM applications with powerful data handling capabilities.
+**- Python Libraries:** For building the chatbot and managing data flow.
+**- Vector Stores:** Essential for embeddings and effective retrieval of contextual data.
