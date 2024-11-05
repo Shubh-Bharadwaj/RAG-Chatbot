@@ -2,6 +2,7 @@
 Welcome to the Retrieval-Augmented Generation (RAG) Chatbot project! This project is designed to build a chatbot that can respond accurately to queries using information from your documents and data sources, rather than solely relying on pre-trained knowledge.
 
 **🚀 Project Overview**
+
 This project explores two main topics:
 
 **- Retrieval Augmented Generation (RAG):** This powerful application retrieves contextual documents from an external dataset to enhance response quality and relevance.
